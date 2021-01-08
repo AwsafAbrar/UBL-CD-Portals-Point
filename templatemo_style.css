@@ -8,10 +8,10 @@ body {
 	line-height: 1.6em; 
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	background-color: #fffaf1;
-	background-image: url('images/gallery/12.png');
+/*	background-image: url('images/gallery/12.png');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-  	background-size: 100% 100%;
+  	background-size: cover; */
 	
 }
 
